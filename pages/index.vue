@@ -76,7 +76,7 @@ export default {
   name: 'IndexPage',
   head() {
     return {
-      title: 'Movie App - Latest Streaming Info',
+      title: 'Movies App - Latest Streaming Info',
       meta: [
         {
           hid: 'description',
